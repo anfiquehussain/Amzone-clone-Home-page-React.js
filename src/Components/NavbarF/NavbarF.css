@@ -1,0 +1,230 @@
+body {
+  min-height: 100%;
+
+}
+
+.MainNav{
+  position: fixed;
+  width: 100%;
+  background-color: #141822;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-left: 0;
+  
+}
+.NavDiv1{
+  height: 60px;
+    text-align: center;
+    color: white;
+    float: left;
+    margin-left: 10px;
+}
+.NavDiv1:hover{
+  border: solid white 1px;
+  border-radius: 2px;
+}
+.NavDiv2{
+  text-align: left;
+  color: white;
+  float: left;
+  width: 200px;
+  margin-top: 6px;
+  margin-left: 10px;
+
+}
+.NavDiv2:hover{
+  border: solid white 1px;;
+  border-radius: 2px;
+}
+
+.gps{
+  display: block;
+  float: left;
+}
+.gpsIcon{
+  float: left;
+  margin-top: 20px;
+}
+.selectgps{
+  display: inline; 
+}
+.hallo{
+  font-size:13px;
+  margin-left: 25px;
+}
+.loc{
+  font-size: 15px;
+  margin-left: 25px;
+}
+
+.logo{
+  width: 120px;
+  height: 70px;
+}
+.NavDiv3{
+  text-align: left;
+  color: white;
+  float: left;
+  margin-left: 30px;
+  margin-top: 14px;
+
+}
+.sel{
+  background-color: #F1F1F1;
+  line-height: 19px;
+  color: #0F1111;
+  height: 40px;
+  width: 45px;
+  font-family: inherit;
+  border-top-left-radius:5px;
+  border-bottom-left-radius:5px;
+  cursor: pointer;
+  
+
+}
+.SeachIcon{
+  background-color:#FEBD67;
+  height: 40px;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+}
+.Seachbar{
+  height: 40px;
+  width: 470px;
+}
+.SeachIcon:hover{
+  background-color:#fab04e ;
+  border-radius: 2px;
+
+}
+
+.NavDiv3:active{
+
+  border:3px solid #f5c689;
+  border-radius:10px ;
+}
+
+
+.NavDiv4{
+  text-align: center;
+  color: white;
+  float: left;
+  margin-top: 23px;
+  margin-left: 20px
+ 
+}
+.indiaFlag{
+  max-width:30px;
+}
+.NavDiv4:hover{
+  border: solid white 1px;
+  border-radius: 2px;
+}
+.falgSel{
+  background-color: rgba(255, 255, 255, 0.301);
+  width: 17px;
+  height: 10px;
+  margin-left: 1px;
+}
+
+
+.NavDiv5{
+  text-align: left;
+  height: 64px;
+  align-items: center;
+  color: white;
+  float: left;
+  margin-left: 10px;
+
+
+}
+.NavDiv5:hover{
+  border: solid white 1px;
+  border-radius: 2px;
+}
+
+.helloSing{
+  font-size: 10px;
+  white-space: nowrap;
+  font-family: inherit;
+  padding-top:5px;
+  padding-left:5px ;
+  border-radius: 2px;
+}
+.AccountSel{
+  background-color: #141822;
+  color: white;
+  border: none;
+  font-size: 20px;
+  display: flex;
+  font-family: inherit;
+  cursor: pointer;
+  padding-left:5px ;
+  padding-bottom: 5px;
+
+}
+.Sin{
+  font-size: 30px;
+  padding-top: 10px;
+  background-color: #FEBD67;
+  cursor: pointer;
+  color: #0F1111;
+  font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.NavDiv6{
+  text-align: left;
+  height: 50px;
+  color: white;
+  float: left;
+  margin-left: 20px;
+}
+.NavDiv6:hover{
+  border: solid white 1px;
+  border-radius: 2px;
+
+
+}
+
+.nav-line-1{
+  font-size: 12px;
+  font-family: inherit;
+}
+.nav-line-2{
+  font-size: 14px;
+}
+.nav-line-3{
+  font-size: 15px;
+  color: aqua;
+}
+
+.NavDiv7{
+  text-align: left;
+  height: 50px;
+  color: white;
+  float: left;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+.NavDiv7:hover{
+  border: solid white 1px;
+  border-radius: 2px;
+}
+
+
+.CartLogo{
+  width: 40px;
+  height: 40px;
+  margin-left: 2px;
+
+
+}
+.cartText{
+    float: right;
+    margin-top: 20px;
+    margin-right: 40px;
+    font-size: 14px;
+    line-height: 15px;
+    font-weight: 700;
+}

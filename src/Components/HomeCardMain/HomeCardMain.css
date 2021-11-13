@@ -1,0 +1,84 @@
+.Card1 {
+    position: absolute;
+    bottom:2px;
+    margin-top: 10px;
+    left: 40px;
+    border: olivedrab 1px solid;
+    color: rgb(36, 28, 28);
+    background-color: white;
+}
+
+.card1img {
+    width: 18em;
+    height: 15em;
+    padding: 15px;
+}
+.card1title {
+    font-size: 19px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+
+.Card2 {
+    position: absolute;
+    bottom:2px;
+    left: 24em;
+    color: rgb(36, 28, 28);
+    background-color: white;
+}
+
+.card2img {
+    width: 9em;
+    height: 7.5em;
+    padding: 5px;
+}
+.card2title {
+    font-size: 19px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+
+
+.Card3 {
+    position: absolute;
+    bottom:2px;
+    left: 44em;
+    color: rgb(36, 28, 28);
+    background-color: white;
+}
+
+.card3img {
+    width: 9em;
+    height: 7.5em;
+    padding: 5px;
+}
+.card3title {
+    font-size: 19px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.Card4 {
+    position: absolute;
+    bottom:2px;
+    left: 65em;
+    color: rgb(36, 28, 28);
+    background-color: white;
+}
+
+.card4img {
+    width: 9em;
+    height: 7.5em;
+    padding: 5px;
+}
+.card4title {
+    font-size: 19px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
