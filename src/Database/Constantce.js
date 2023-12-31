@@ -1,1 +1,0 @@
-export const fakestoreapiAllproducts = 'https://fakestoreapi.com/products'
